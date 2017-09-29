@@ -29,6 +29,7 @@
 
   <artifactId>avro</artifactId>
 
+  <groupId>com.kambi.data</groupId>
   <name>Apache Avro</name>
   <url>http://avro.apache.org</url>
   <description>Avro core components</description>
